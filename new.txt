@@ -1,3 +1,6 @@
 1 NEW file
 2
 3 white some chenges
+5
+6
+7 test
